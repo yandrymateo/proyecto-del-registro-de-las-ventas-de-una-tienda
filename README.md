@@ -1,0 +1,2 @@
+# proyecto-del-registro-de-las-ventas-de-una-tienda
+esta proyecto registra todas ventas que se realiza e una tienda, calculando el itbis, el total a pagar, la cantidad con que paga el cliente y el cambio que debe recibir dicho cliente si paga con mas dinero que el total a pagar... este proyecto fue creado por el grupo los lideres de la universidad OYM ... SUS INTEGRANTES SON: anyely mora 17-EIIN-1-175    scarlen jimenez  17-EIIN-1-065 Y  yandry mateo  13-EIIT-1-049
